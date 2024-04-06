@@ -7,10 +7,10 @@ Web Developer and Designer
 I've been learning HTML, CSS, and JS. Recently I started some real project.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [jesminp5486@gmail.com](mailto:jesminp5486@gmail.com)
+* ✉️  You can contact me at [aamijasmin@protonmail.com](mailto:aamijasmin@protonmail.com)
 * 🚀  I'm currently working on [Sikkim Khadi](http://www.sikkimkhadi.com)
 * 🧠  I'm learning python
-* 🤝  I'm open to collaborating on Sikkim Khadi
+* 🤝  I'm open to collaborating on any new project :blush:
 
 <a href="https://www.github.com/aamijasmin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aamijasmin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
