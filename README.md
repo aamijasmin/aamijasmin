@@ -1,7 +1,7 @@
-Hi 👋 My name is Coder Jasmin
+Hi 👋 My name is Coder JasCoder
 =============================
 
-Web Developer and Designer
+Front end Developer
 --------------------------
 
 I've been learning HTML, CSS, and JS. Recently I started some real project.
