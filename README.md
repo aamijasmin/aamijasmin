@@ -1,7 +1,7 @@
-Hi 👋 My name is Coder JasCoder
+Hi 👋 My name is JasCoder
 =============================
 
-Front end Developer
+Front End Developer
 --------------------------
 
 I've been learning HTML, CSS, and JS. Recently I started some real project.
